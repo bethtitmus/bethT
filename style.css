@@ -112,7 +112,6 @@ article p {
 .free-img{
     width: max-content;
     height: max-content;
-    transition: none !important;
 }
 .img-container img{
     width: 98%;
